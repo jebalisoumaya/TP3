@@ -18,8 +18,8 @@ Scrapy
 pymongo (optional, for MongoDB integration)
 
 
-Installation
-How to Run the KBO Spider
+#Installation
+#How to Run the KBO Spider
 The KBO spider extracts company information from the Kruispuntbank van Ondernemingen.
 
 scrapy crawl kbo -o data.json
